@@ -1,1 +1,1 @@
-HealthBridge is a telemedicine platform designed to bridge the gap between doctors and patients in rural and underserved areas. The app allows patients to book appointments, join real-time chat sessions with doctors via WebSockets, and receive timely medical guidance remotely.
+HealthBridge Connect is a telemedicine platform designed to bridge the gap between doctors and patients in rural and underserved areas. The app allows patients to book appointments, join real-time chat sessions with doctors via WebSockets, and receive timely medical guidance remotely.
