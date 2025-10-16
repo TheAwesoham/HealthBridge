@@ -4,9 +4,9 @@ HealthBridge Connect is a telemedicine platform designed to bridge the gap betwe
 
 ## ✨ Key Features
 
-🔒 JWT Authentication – Secure login and token-based access
-👩‍⚕️ Patient & Doctor Management – Manage patient profiles and doctor details
-💬 Real-time Chatroom – WebSocket-powered communication between doctor and patient
-💾 MySQL Database Integration – Reliable and persistent data storage
-⚙️ Stateless Architecture – Uses Spring Security and JWT for session-free requests
-🌐 RESTful APIs – Well-structured and scalable backend endpoints
+- 🔒 JWT Authentication – Secure login and token-based access
+- 👩‍⚕️ Patient & Doctor Management – Manage patient profiles and doctor details
+- 💬 Real-time Chatroom – WebSocket-powered communication between doctor and patient
+- 💾 MySQL Database Integration – Reliable and persistent data storage
+- ⚙️ Stateless Architecture – Uses Spring Security and JWT for session-free requests
+- 🌐 RESTful APIs – Well-structured and scalable backend endpoints
