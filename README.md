@@ -43,7 +43,7 @@
 
 ## 🧠 System Overview
 
-The platform is built around a **stateless, secure, and scalable architecture**:
+**The platform is built around a stateless, secure, and scalable architecture** ->
 1. **Authentication Service** – Issues JWT tokens after validating credentials.  
 2. **Doctor & Patient Modules** – Handle profile data and consultation logic.  
 3. **Chat Service** – Enables secure WebSocket-based real-time communication.  
