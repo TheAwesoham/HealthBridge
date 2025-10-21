@@ -1,7 +1,6 @@
 # 🏥 HealthBridge
 
-**HealthBridge** is a telemedicine platform designed to bridge the gap between doctors and patients in **rural and underserved areas**.  
-It enables patients to find nearby doctors, book appointments, and conduct **real-time online consultations**, all while maintaining **security, scalability, and reliability**.
+**HealthBridge** is a telemedicine platform designed to bridge the gap between doctors and patients in **rural and underserved areas**. It enables patients to find nearby doctors, book appointments, and conduct **real-time online consultations**, all while maintaining **security, scalability, and reliability**.
 
 ---
 
@@ -50,6 +49,3 @@ The platform is built around a **stateless, secure, and scalable architecture**:
 3. **Chat Service** – Enables secure WebSocket-based real-time communication.  
 4. **Appointment Service** – Handles scheduling, booking, and cleanup jobs.  
 5. **Database Layer** – Stores appointments, users, and session data in MySQL.  
-
----
-
